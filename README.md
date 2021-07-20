@@ -1,1 +1,3 @@
-# unit-converter
+# unit-converter: A React-Based Unit Converter App
+
+This repository contains the source code of the Converter App unit converter utility.  It is a React-based JS unit converter, supporting numerous different scientific units and also units used in everyday-life. Furthermore, it provides a fast and intuitive user interface with an auto-complete feature. The goal of this auto-complete is to avoid large drop-down lists and increase the efficiency of the app. The list of supported units can easily be extended. The version of this [unit converter which is life at converter.app](https://unit.converter.app/) is served directly from the master branch of this repository. 
